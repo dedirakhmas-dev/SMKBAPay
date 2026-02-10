@@ -66,6 +66,9 @@ $r = $q->get_result()->fetch_assoc();
   <a href="riwayat.php" class="btn btn-primary w-100 mb-2">
   📄 Riwayat Transaksi
   </a>
+<a href="saldo.php" class="btn btn-warning w-100 mb-2">
+  💰 Saldo Saya
+</a>
 </div>
 <script src="../assets/js/bootstrap.bundle.min.js"></script>
 </body>
